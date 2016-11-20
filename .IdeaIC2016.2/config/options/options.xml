@@ -2,5 +2,11 @@
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.4-release-IJ2016.1-112" />
     <property name="android-component-compatibility-check" value="1479672841726" />
+    <property name="go.tutorial.project.notification.shown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/git/NavitasFitness" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="go.last.update.timestamp" value="1479673281882" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="lastTip" value="1" />
   </component>
 </application>

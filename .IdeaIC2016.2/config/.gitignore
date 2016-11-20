@@ -3,3 +3,13 @@
 *.lock
 disabled_plugins.txt
 plugins/
+port
+
+inspection/Default.xml
+
+options/cachedDictionary.xml
+options/git.xml
+options/recentProjects.xml
+options/proxy.settings.pwd
+options/window.manager.xml
+options/statistics.application.usages.xml
