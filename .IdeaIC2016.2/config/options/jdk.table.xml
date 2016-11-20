@@ -1,0 +1,53 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Go 1.6.2 (appengine-1.9.40)" />
+      <type value="Go SDK" />
+      <version value="1.6.2 (appengine-1.9.40)" />
+      <homePath value="$USER_HOME$/Apps/go_appengine/goroot" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Apps/go_appengine/goroot/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Apps/go_appengine/goroot/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Go 1.7.3" />
+      <type value="Go SDK" />
+      <homePath value="$USER_HOME$/Apps/go" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Apps/go/src" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Apps/go/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
